@@ -106,7 +106,6 @@ Event_organizer_website/
 ```
 
 ---
----
 
 ## 📄 License
 
