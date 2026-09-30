@@ -106,36 +106,6 @@ Event_organizer_website/
 ```
 
 ---
-
-## 🏁 Quick Start
-
-### 1. Prerequisites
-- **Node.js**: v18.17.0 or higher
-- **npm**: v9.0.0 or higher (or `pnpm` / `yarn`)
-
-### 2. Installation
-
-Clone or open your repository folder, then install dependencies:
-
-```bash
-npm install
-```
-
-### 3. Run Development Server
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
-
-### 4. Build for Production
-
-```bash
-npm run build
-npm start
-```
-
 ---
 
 ## 📄 License
