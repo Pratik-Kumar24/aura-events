@@ -138,46 +138,6 @@ npm start
 
 ---
 
-## 📤 Pushing to GitHub
-
-Follow these steps to initialize and push your project to GitHub:
-
-### Step 1: Initialize Git
-Open your terminal in the project root directory and run:
-
-```bash
-git init
-```
-
-### Step 2: Add Files & Commit
-The included `.gitignore` ensures that `node_modules` and `.next` build files are excluded:
-
-```bash
-git add .
-git commit -m "feat: initial commit for Aura Events luxury event management platform"
-```
-
-### Step 3: Link to Your GitHub Repository
-1. Create a new repository on [GitHub](https://github.com/new) (e.g., `aura-events` or `event-organizer-website`).
-2. Run the following commands (replace `YOUR_USERNAME` and `REPO_NAME` with your actual GitHub repository details):
-
-```bash
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
-git push -u origin main
-```
-
----
-
-## 📜 Available Scripts
-
-- `npm run dev`: Runs the development server on `localhost:3000`.
-- `npm run build`: Compiles and creates an optimized production build.
-- `npm run start`: Starts the Next.js production server.
-- `npm run lint`: Runs ESLint checks across the codebase.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
