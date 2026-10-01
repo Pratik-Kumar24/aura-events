@@ -76,7 +76,7 @@ export default function LandingPage() {
             {/* Subheading */}
             <p className="mt-6 max-w-2xl text-base sm:text-lg text-teal-900/70 font-light leading-relaxed">
               Curate high-stakes celebrations with architectural precision. Intuitive 2D seating canvases,
-              immersive 360° venue stagers, and real-time INR (₹) financial telemetry crafted exclusively for discerning organizers.
+              immersive 360° venue stagers, and real-time financial telemetry crafted exclusively for discerning organizers.
             </p>
 
             {/* Quick-Start Event Filter & Budget Allocation Bar */}
