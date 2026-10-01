@@ -19,9 +19,9 @@
 
 ## 🌟 Overview
 
-**Aura Events** is an enterprise-grade luxury event management and design studio. Designed with an editorial aesthetic—combining warm ivory silk, obsidian velvet, and imperial gold accents—it offers event organizers, production managers, and guests a seamless, high-touch experience.
+**Aura Events** is an enterprise-grade luxury event management and design studio. Designed with an editorial aesthetic combining warm ivory silk, obsidian velvet, and imperial gold accents it offers event organizers, production managers, and guests a seamless, high-touch experience.
 
-From **interactive 2D drag-and-drop floor planning** and **immersive 3D venue walkthroughs** to **VIP door check-in**, **budget tracking in INR (₹)**, and **instant digital table passes with custom QR codes**, Aura Events streamlines every stage of event production.
+From **interactive 2D drag-and-drop floor planning** and **immersive 3D venue walkthroughs** to **VIP door check-in**, **budget tracking**, and **instant digital table passes with custom QR codes**, Aura Events streamlines every stage of event production.
 
 ---
 
